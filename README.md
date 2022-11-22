@@ -1,6 +1,11 @@
 {"categorieCam":[{"name":"Movies","videos":[{"descriptionCam":"Equinox est une chaîne de télévision basée au Cameroun. Peu de temps après son lancement, il est devenu l'un des critiques les plus virulents du régime de Paul Biya. La station était connue pour avoir diffusé des images en direct d'une manifestation politique contre le changement constitutionnel au Cameroun qui favorisait le maintien au pouvoir du président Biya après 2011, alors qu'il lui était interdit par la Constitution de se présenter à nouveau. La télévision appartient au magnat des affaires de la région ouest du Cameroun, Severin Tchounke, qui possède également un quotidien critique, La Nouvelle Expression.","sourceCam":["http://178.33.237.146/equinoxetv.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://camer-press.com/wp-content/uploads/2020/04/Equinoxe-Tv.jpg","titleCam":"EQUINOXE TV"},
 
 
+{"descriptionCam":"Kemet TV est une chaine privées du cameroune. Sa couverture des événements est généralement considérée des magazines, des analyses d'actualités et des séries importées d'Asie et du Brésil..","sourceCam":["https://server.it-innov.com/hls/kemet/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"http://www.cameroonconcordnews.com/wp-content/uploads/2018/03/CRTV-new.jpg","titleCam":"KEMET TV"},
+
+
+
+
 {"descriptionCam":"CRTV est un service de radio et de télévision contrôlé par le gouvernement au Cameroun. Cela a commencé sous le nom de Cameroon Television (CTV) et a ensuite fusionné avec le service de radio pour devenir CRTV. Il couvre l'ensemble des dix régions du Cameroun, ce qui en fait le diffuseur indomptable parmi plusieurs chaînes de télévision privées du pays. Sa couverture des événements est généralement considérée comme pro-gouvernementale. Les programmes de la CRTV comprennent des documentaires, des magazines, des analyses d'actualités et des séries importées d'Asie et du Brésil..","sourceCam":["http://178.33.237.146/crtv.m3u8"],"subtitleCam":"By Channel","thumbCam":"http://www.cameroonconcordnews.com/wp-content/uploads/2018/03/CRTV-new.jpg","titleCam":"CRTV / lien 1"},
 
 
@@ -11,12 +16,6 @@
 
 
 {"descriptionCam":"Dash Sports TV est une chaîne télévisée du Cameroune avec un programme riche du Sports.","sourceCam":["https://tv.dashacomedia.com:3960/live/dashacomedia2live.m3u8"],"subtitleCam":"By Channel","thumbCam":"http://www.cameroonconcordnews.com/wp-content/uploads/2018/03/CRTV-new.jpg","titleCam":"DASHA SPORTS"},
-
-
-
-
-
-
 
 
 
