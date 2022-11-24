@@ -4,7 +4,7 @@
 {"descriptionCam":"Kemet TV est une chaine privées du cameroune. Sa couverture des événements est généralement considérée des magazines, des analyses d'actualités et des séries importées d'Asie et du Brésil..","sourceCam":["https://server.it-innov.com/hls/kemet/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"http://www.cameroonconcordnews.com/wp-content/uploads/2018/03/CRTV-new.jpg","titleCam":"KEMET TV"},
 
 
-
+{"descriptionCam":"Lancée le 16 sept 2019, SUN+ TV est la première chaîne de télévision 100% divertissement du Cameroun disponible sur le digital et le satellite. Cinéma, sport, musiques, émissions TV, elle informe en divertissant. Classée 2e meilleure chaîne TV divertissement derrière La chaîne nationale CRTV.","sourceCam":["https://helga.iptv2022.com/sun_plus_tv/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODQ2ODkyNDFf/SunPlus.jpeg","titleCam":"SUN PLUS TV"},
 
 {"descriptionCam":"CRTV est un service de radio et de télévision contrôlé par le gouvernement au Cameroun. Cela a commencé sous le nom de Cameroon Television (CTV) et a ensuite fusionné avec le service de radio pour devenir CRTV. Il couvre l'ensemble des dix régions du Cameroun, ce qui en fait le diffuseur indomptable parmi plusieurs chaînes de télévision privées du pays. Sa couverture des événements est généralement considérée comme pro-gouvernementale. Les programmes de la CRTV comprennent des documentaires, des magazines, des analyses d'actualités et des séries importées d'Asie et du Brésil..","sourceCam":["http://178.33.237.146/crtv.m3u8"],"subtitleCam":"By Channel","thumbCam":"http://www.cameroonconcordnews.com/wp-content/uploads/2018/03/CRTV-new.jpg","titleCam":"CRTV / lien 1"},
 
