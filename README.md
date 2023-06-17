@@ -16,4 +16,10 @@
 
 {"descriptionCam":"Plex tv une chaîne généraliste spécialisé dans la retransmissions des événement. émission et qui diffuse aussi des films, musiques, divertissement, sport, magasine etc et une multitude de programme en haute définition.","sourceCam":["http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://www.lifetimepremiumaccounts.com/wp-content/uploads/2019/03/plex-logo.jpg","titleCam":"PLEX TV"},
 
-{"descriptionCam":"Dream Channel est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["http://connectiktv.ddns.net:5000/dreamchannel/dreamchannel/chunklist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://connectik.tv/wp-content/uploads/2019/06/c1b45634-2f8c-47e7-8849-e6d7ea620465-300x169.jpg","titleCam":"DREAM CHANNEL TV"}]}]}
+{"descriptionCam":"Dream Channel est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["http://connectiktv.ddns.net:5000/dreamchannel/dreamchannel/chunklist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://connectik.tv/wp-content/uploads/2019/06/c1b45634-2f8c-47e7-8849-e6d7ea620465-300x169.jpg","titleCam":"DREAM CHANNEL TV"},
+
+{"descriptionCam":"Glory Christ Channel est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["https://stream.it-innov.com/gcc/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://connectik.tv/wp-content/uploads/2019/06/c1b45634-2f8c-47e7-8849-e6d7ea620465-300x169.jpg","titleCam":"GLORY CHRIST CHANNEL"},
+
+{"descriptionCam":"TR 24 TV est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["https://stream.it-innov.com/tr24/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://connectik.tv/wp-content/uploads/2019/06/c1b45634-2f8c-47e7-8849-e6d7ea620465-300x169.jpg","titleCam":"TR 24 TV"},
+
+{"descriptionCam":"ACN TV est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["https://www.live.quantizedcreativity.com:5443/LiveApp/streams/ambazonia_is_independent_from_lrc.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://connectik.tv/wp-content/uploads/2019/06/c1b45634-2f8c-47e7-8849-e6d7ea620465-300x169.jpg","titleCam":"ACN TV"}]}]}
