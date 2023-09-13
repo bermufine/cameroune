@@ -4,7 +4,7 @@
 
 {"descriptionCam":"Élite One TV est une chaîne de divertissement et d’évènementiel.  en Afrique francophone, anglophone et lusophone","sourceCam":["http://connectiktv.ddns.me:8080/live/61f1b71d8df4b-1/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODcwMjQ5Mzdf/Elite.png","titleCam":"ELITE ONE TV"},
 
-{"descriptionCam":"Canal 2 International est une chaîne de divertissement et d’évènementiel.  en Afrique francophone, anglophone et lusophone","sourceCam":["http://69.64.57.208/canal2international/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODcwMjQ5Mzdf/Elite.png","titleCam":"CANAL 2 INTERNATIONAL"},
+{"descriptionCam":"Canal 2 International est une chaîne de divertissement et d’évènementiel.  en Afrique francophone, anglophone et lusophone","sourceCam":["http://69.64.57.208/canal2international/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTQwNjU1MDVf/canal2.jpg","titleCam":"CANAL 2 INTERNATIONAL"},
 
 {"descriptionCam":"Kemet TV est une chaine privées du cameroune. Sa couverture des événements est généralement considérée des magazines, des analyses d'actualités et des séries importées d'Asie et du Brésil..","sourceCam":["https://server.it-innov.com/hls/kemet/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODcwMjQ5MTJf/kemet.jpg","titleCam":"KEMET TV"},
 
