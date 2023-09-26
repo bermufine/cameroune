@@ -20,9 +20,11 @@
 
 {"descriptionCam":"Plex tv une chaîne généraliste spécialisé dans la retransmissions des événement. émission et qui diffuse aussi des films, musiques, divertissement, sport, magasine etc et une multitude de programme en haute définition.","sourceCam":["http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://www.lifetimepremiumaccounts.com/wp-content/uploads/2019/03/plex-logo.jpg","titleCam":"PLEX TV"},
 
+{"descriptionCam":"Repantence TV est une chaîne chrétienne télévisée ematant au cameroune pour l'édification de chrétiens.","sourceCam":["http://connectiktv.ddns.net:5000/repantence/repantence/chunklist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://connectik.tv/wp-content/uploads/2019/06/c1b45634-2f8c-47e7-8849-e6d7ea620465-300x169.jpg","titleCam":"REPANTENCE TV"},
+
 {"descriptionCam":"Dream Channel est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["http://connectiktv.ddns.net:5000/dreamchannel/dreamchannel/chunklist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://connectik.tv/wp-content/uploads/2019/06/c1b45634-2f8c-47e7-8849-e6d7ea620465-300x169.jpg","titleCam":"DREAM CHANNEL TV"},
 
-{"descriptionCam":"Glory Christ Channel est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["https://stream.it-innov.com/gcc/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://connectik.tv/wp-content/uploads/2019/06/c1b45634-2f8c-47e7-8849-e6d7ea620465-300x169.jpg","titleCam":"GLORY CHRIST CHANNEL"},
+{"descriptionCam":"Glory Christ Channel est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["https://stream.it-innov.com/gcc/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://connectik.tv/wp-content/uploads/2019/06/c1b45634-2f8c-47e7-8849-e6d7ea620465-300x169.jpg","titleCam":"GLORY CHRIST"},
 
 {"descriptionCam":"TR 24 TV est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["https://stream.it-innov.com/tr24/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://connectik.tv/wp-content/uploads/2019/06/c1b45634-2f8c-47e7-8849-e6d7ea620465-300x169.jpg","titleCam":"TR 24 TV"},
 
@@ -32,43 +34,10 @@
 
 {"descriptionCam":"Afrobit est une chaine privées spécialisée au musique africaine et international.","sourceCam":["http://connectiktv.ddns.net:5000/afrobithd/afrobithd/chunklist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODcwMjQ5MTJf/kemet.jpg","titleCam":"AFROBIT"},
 
-{"descriptionCam":"LeaderCable TV est une chaine privées du cameroune. Sa couverture des événements est généralement considérée des magazines, des analyses d'actualités et des séries importées d'Asie et du Brésil..","sourceCam":["http://connectiktv.ddns.net:5000/leadercable/leadercable/chunklist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODcwMjQ5MTJf/kemet.jpg","titleCam":"LEADER TV"}
+{"descriptionCam":"LeaderCable TV est une chaine privées du cameroune. Sa couverture des événements est généralement considérée des magazines, des analyses d'actualités et des séries importées d'Asie et du Brésil..","sourceCam":["http://connectiktv.ddns.net:5000/leadercable/leadercable/chunklist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODcwMjQ5MTJf/kemet.jpg","titleCam":"LEADER TV"},
 
+{"descriptionCam":"Logos Channel est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["http://connectiktv.ddns.net:5000/logoschannel/logoschannel/chunklist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://connectik.tv/wp-content/uploads/2019/06/c1b45634-2f8c-47e7-8849-e6d7ea620465-300x169.jpg","titleCam":"LOGOS CHANNEL"},
 
-]}]}
+{"descriptionCam":"Exel Discovery est une chaine télévisée ematant au cameroune","sourceCam":["http://connectiktv.ddns.net:5000/exeltv/exeltv/chunklist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://connectik.tv/wp-content/uploads/2019/06/c1b45634-2f8c-47e7-8849-e6d7ea620465-300x169.jpg","titleCam":"EXEL DISCOVERY"},
 
- 
-
-
-
-MyTV Channel
-
-http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/chunklist.m3u8
-
-PLAY TV
-
-http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
-
-DREAM CHANNEL
- 
-http://connectiktv.ddns.net:5000/dreamchannel/dreamchannel/chunklist.m3u8
-
-EXEL DISCOVERY 
-
-http://connectiktv.ddns.net:5000/exeltv/exeltv/chunklist.m3u8
-
-REPENTANCE TV
-
-http://connectiktv.ddns.net:5000/repantence/repantence/chunklist.m3u8
-
-ROUGE TV 
-
-http://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
-
-PLEX TV 
-
-http://connectiktv.ddns.net:5000/plextv/@plextv/chunklist.m3u8
-
-LOGOS CHANNEL 
-
-http://connectiktv.ddns.net:5000/logoschannel/logoschannel/chunklist.m3u8
+{"descriptionCam":"Rouge TV est une chaine télévisée ematant au Cameroun avec des émissions spéciales","sourceCam":["http://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://connectik.tv/wp-content/uploads/2019/06/c1b45634-2f8c-47e7-8849-e6d7ea620465-300x169.jpg","titleCam":"ROUGE TV"}]}]}
