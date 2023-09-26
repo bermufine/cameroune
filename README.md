@@ -28,4 +28,47 @@
 
 {"descriptionCam":"ACN TV est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["https://www.live.quantizedcreativity.com:5443/LiveApp/streams/ambazonia_is_independent_from_lrc.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://connectik.tv/wp-content/uploads/2019/06/c1b45634-2f8c-47e7-8849-e6d7ea620465-300x169.jpg","titleCam":"ACN TV"},
 
-{"descriptionCam":"CRTV est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["https://www.live.quantizedcreativity.com:5443/LiveApp/streams/ambazonia_is_independent_from_lrc.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://connectik.tv/wp-content/uploads/2019/06/c1b45634-2f8c-47e7-8849-e6d7ea620465-300x169.jpg","titleCam":"CRTV"}]}]}
+{"descriptionCam":"CRTV est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["https://www.live.quantizedcreativity.com:5443/LiveApp/streams/ambazonia_is_independent_from_lrc.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://connectik.tv/wp-content/uploads/2019/06/c1b45634-2f8c-47e7-8849-e6d7ea620465-300x169.jpg","titleCam":"CRTV"},
+
+{"descriptionCam":"Afrobit est une chaine privées spécialisée au musique africaine et international.","sourceCam":["http://connectiktv.ddns.net:5000/afrobithd/afrobithd/chunklist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODcwMjQ5MTJf/kemet.jpg","titleCam":"AFROBIT"},
+
+{"descriptionCam":"LeaderCable TV est une chaine privées du cameroune. Sa couverture des événements est généralement considérée des magazines, des analyses d'actualités et des séries importées d'Asie et du Brésil..","sourceCam":["http://connectiktv.ddns.net:5000/leadercable/leadercable/chunklist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODcwMjQ5MTJf/kemet.jpg","titleCam":"LEADER TV"}
+
+
+]}]}
+
+ 
+
+
+
+MyTV Channel
+
+http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/chunklist.m3u8
+
+PLAY TV
+
+http://connectiktv.ddns.net:5000/playtv/@playtv/chunklist.m3u8
+
+DREAM CHANNEL
+ 
+http://connectiktv.ddns.net:5000/dreamchannel/dreamchannel/chunklist.m3u8
+
+EXEL DISCOVERY 
+
+http://connectiktv.ddns.net:5000/exeltv/exeltv/chunklist.m3u8
+
+REPENTANCE TV
+
+http://connectiktv.ddns.net:5000/repantence/repantence/chunklist.m3u8
+
+ROUGE TV 
+
+http://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
+
+PLEX TV 
+
+http://connectiktv.ddns.net:5000/plextv/@plextv/chunklist.m3u8
+
+LOGOS CHANNEL 
+
+http://connectiktv.ddns.net:5000/logoschannel/logoschannel/chunklist.m3u8
