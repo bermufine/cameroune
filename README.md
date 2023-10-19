@@ -12,6 +12,8 @@
 
 {"descriptionCam":"Lancée le 16 sept 2019, SUN+ TV est la première chaîne de télévision 100% divertissement du Cameroun disponible sur le digital et le satellite. Cinéma, sport, musiques, émissions TV, elle informe en divertissant. Classée 2e meilleure chaîne TV divertissement derrière La chaîne nationale CRTV.","sourceCam":["https://sunplustv.mboahost.biz:8181/live/chainesuntv/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODQ2ODkyNDFf/SunPlus.jpeg","titleCam":"SUN PLUS TV"},
 
+{"descriptionCam":"Holpac tv.","sourceCam":["https://sunplustv.mboahost.biz:81881/live/chainesuntv/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU2NTM2NThf/holpac.jpg","titleCam":"HOLPAC TV"},
+
 {"descriptionCam":"Vision 4 est l'une des chaines privées que l'on retrouve dans la ville de Yaounde, possédant des émissions variées et musique, Politiques...","sourceCam":["https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yNDg1Nzc2ODJf/vision4.jpg","titleCam":"VISION 4"},
 
 {"descriptionCam":"Dash Sports TV est une chaîne télévisée du Cameroune avec un programme riche du Sports.","sourceCam":["http://102.132.19.90:8000/play/a014/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODQ2NjkyNjdf/dash.png","titleCam":"DASH SPORTS"},
