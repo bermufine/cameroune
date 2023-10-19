@@ -1,5 +1,7 @@
 {"categorieCam":[{"name":"Movies","videos":[{"descriptionCam":"Ctv Africa TV est une chaîne de divertissement et d’évènementiel en Afrique francophone, anglophone et lusophone","sourceCam":["https://stream.it-innov.com:443/ctv/tracks-v1a1/mono.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODQ2NjkyNzBf/ctvAfrique.jpeg","titleCam":"CTV AFRICA"},
 
+{"descriptionCam":"Equinox TV est une chaîne de divertissement et d’évènementiel.  en Afrique francophone, anglophone et lusophone","sourceCam":["http://69.64.57.208/equinoxtv/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMzMTIzODhf/channel24.png","titleCam":"EQUINOX TV"},
+
 {"descriptionCam":"Africa C-news TV est une chaîne de divertissement et d’évènementiel.  en Afrique francophone, anglophone et lusophone","sourceCam":["http://connectiktv.ddns.me:8080/live/61f1b992a6e8a-1/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMzMTIzODhf/channel24.png","titleCam":"AFRICA C NEWS"},
 
 {"descriptionCam":"Élite One TV est une chaîne de divertissement et d’évènementiel.  en Afrique francophone, anglophone et lusophone","sourceCam":["http://connectiktv.ddns.me:8080/live/61f1b71d8df4b-1/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODcwMjQ5Mzdf/Elite.png","titleCam":"ELITE ONE TV"},
@@ -17,6 +19,8 @@
 {"descriptionCam":"PLAY TV est l'une des chaines privées que l'on retrouve dans Yaounde possédant des émissions musicales variées ainsi que les movies","sourceCam":["http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yNDg1NzcwNTFf/play.jpg","titleCam":"PLAY TV"},
 
 {"descriptionCam":"My Channel TV est l'une des chaines privées que l'on retrouve dans la ville de Yaounde, possédant des émissions variées et musiques","sourceCam":["http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yNDg1NzczODRf/mychannel.jpg","titleCam":"MY CHANNEL TV"},
+
+{"descriptionCam":"Afrique Media TV est l'une des chaines privées que l'on retrouve dans la ville de Yaounde, possédant des émissions variées et musiques","sourceCam":["http://102.132.19.90:8000/play/a04m/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yNDg1NzczODRf/mychannel.jpg","titleCam":"AFRIQUE MEDIA"},
 
 {"descriptionCam":"Plex tv une chaîne généraliste spécialisé dans la retransmissions des événement. émission et qui diffuse aussi des films, musiques, divertissement, sport, magasine etc et une multitude de programme en haute définition.","sourceCam":["http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://www.lifetimepremiumaccounts.com/wp-content/uploads/2019/03/plex-logo.jpg","titleCam":"PLEX TV"},
 
