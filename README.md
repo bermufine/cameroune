@@ -20,7 +20,9 @@
 
 {"descriptionCam":"My Channel TV est l'une des chaines privées que l'on retrouve dans la ville de Yaounde, possédant des émissions variées et musiques","sourceCam":["http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yNDg1NzczODRf/mychannel.jpg","titleCam":"MY CHANNEL TV"},
 
-{"descriptionCam":"Afrique Media TV est l'une des chaines privées que l'on retrouve dans la ville de Yaounde, possédant des émissions variées et musiques","sourceCam":["http://102.132.19.90:8000/play/a04m/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yNDg1NzczODRf/mychannel.jpg","titleCam":"AFRIQUE MEDIA"},
+{"descriptionCam":"Afrique Media TV est l'une des chaines privées que l'on retrouve dans la ville de Yaounde, possédant des émissions variées et musiques","sourceCam":["http://102.132.19.90:8000/play/a002/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yNDg1NzczODRf/mychannel.jpg","titleCam":"AFRIQUE MEDIA"},
+
+{"descriptionCam":"Afrique Media Andustry TV est l'une des chaines privées que l'on retrouve dans la ville de Yaounde, possédant des émissions variées et musiques","sourceCam":["http://102.132.19.90:8000/play/a04m/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yNDg1NzczODRf/mychannel.jpg","titleCam":"AFRIQUE MEDIA INDUSTRY"},
 
 {"descriptionCam":"Plex tv une chaîne généraliste spécialisé dans la retransmissions des événement. émission et qui diffuse aussi des films, musiques, divertissement, sport, magasine etc et une multitude de programme en haute définition.","sourceCam":["http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://www.lifetimepremiumaccounts.com/wp-content/uploads/2019/03/plex-logo.jpg","titleCam":"PLEX TV"},
 
