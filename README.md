@@ -1,8 +1,8 @@
 {"categorieCam":[{"name":"Movies","videos":[{"descriptionCam":"Ctv Africa TV est une chaîne de divertissement et d’évènementiel en Afrique francophone, anglophone et lusophone","sourceCam":["https://stream.it-innov.com:443/ctv/tracks-v1a1/mono.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODQ2NjkyNzBf/ctvAfrique.jpeg","titleCam":"CTV AFRICA"},
 
-{"descriptionCam":"Equinox TV est une chaîne de divertissement et d’évènementiel.  en Afrique francophone, anglophone et lusophone","sourceCam":["http://69.64.57.208/equinoxtv/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMzMTIzODhf/channel24.png","titleCam":"EQUINOX TV"},
+{"descriptionCam":"Equinox TV est une chaîne de divertissement et d’évènementiel.  en Afrique francophone, anglophone et lusophone","sourceCam":["http://69.64.57.208/equinoxtv/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTUzNThf/equinox.jpeg","titleCam":"EQUINOX TV"},
 
-{"descriptionCam":"Africa C-news TV est une chaîne de divertissement et d’évènementiel.  en Afrique francophone, anglophone et lusophone","sourceCam":["http://connectiktv.ddns.me:8080/live/61f1b992a6e8a-1/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODMzMTIzODhf/channel24.png","titleCam":"AFRICA C NEWS"},
+{"descriptionCam":"Africa C-news TV est une chaîne de divertissement et d’évènementiel.  en Afrique francophone, anglophone et lusophone","sourceCam":["http://connectiktv.ddns.me:8080/live/61f1b992a6e8a-1/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTU0NDNf/cnewsAfrica.jpeg","titleCam":"AFRICA C NEWS"},
 
 {"descriptionCam":"Élite One TV est une chaîne de divertissement et d’évènementiel.  en Afrique francophone, anglophone et lusophone","sourceCam":["http://connectiktv.ddns.me:8080/live/61f1b71d8df4b-1/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODcwMjQ5Mzdf/Elite.png","titleCam":"ELITE ONE TV"},
 
@@ -20,11 +20,11 @@
 
 {"descriptionCam":"My Channel TV est l'une des chaines privées que l'on retrouve dans la ville de Yaounde, possédant des émissions variées et musiques","sourceCam":["http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yNDg1NzczODRf/mychannel.jpg","titleCam":"MY CHANNEL TV"},
 
-{"descriptionCam":"Cam 10 TV est l'une des chaines privées que l'on retrouve dans la ville de Yaounde, possédant des émissions variées et musiques","sourceCam":["http://102.132.19.90:8000/play/a00d/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yNDg1NzczODRf/mychannel.jpg","titleCam":"CAM 10"},
+{"descriptionCam":"Cam 10 TV est l'une des chaines privées que l'on retrouve dans la ville de Yaounde, possédant des émissions variées et musiques","sourceCam":["http://102.132.19.90:8000/play/a00d/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTUzNjJf/cam10.png","titleCam":"CAM 10"},
 
-{"descriptionCam":"Afrique Media TV est l'une des chaines privées que l'on retrouve dans la ville de Yaounde, possédant des émissions variées et musiques","sourceCam":["http://102.132.19.90:8000/play/a002/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yNDg1NzczODRf/mychannel.jpg","titleCam":"AFRIQUE MEDIA"},
+{"descriptionCam":"Afrique Media TV est l'une des chaines privées que l'on retrouve dans la ville de Yaounde, possédant des émissions variées et musiques","sourceCam":["http://102.132.19.90:8000/play/a002/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTUzNjRf/AfriqueMedia.jpeg","titleCam":"AFRIQUE MEDIA"},
 
-{"descriptionCam":"Afrique Media Andustry TV est l'une des chaines privées que l'on retrouve dans la ville de Yaounde, possédant des émissions variées et musiques","sourceCam":["http://102.132.19.90:8000/play/a04m/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yNDg1NzczODRf/mychannel.jpg","titleCam":"AFRIQUE MEDIA INDUSTRY"},
+{"descriptionCam":"Afrique Media Andustry TV est l'une des chaines privées que l'on retrouve dans la ville de Yaounde, possédant des émissions variées et musiques","sourceCam":["http://102.132.19.90:8000/play/a04m/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTUzODBf/afriquMedia.jpeg","titleCam":"AFRIQUE MEDIA INDUSTRY"},
 
 {"descriptionCam":"Plex tv une chaîne généraliste spécialisé dans la retransmissions des événement. émission et qui diffuse aussi des films, musiques, divertissement, sport, magasine etc et une multitude de programme en haute définition.","sourceCam":["http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://www.lifetimepremiumaccounts.com/wp-content/uploads/2019/03/plex-logo.jpg","titleCam":"PLEX TV"},
 
@@ -42,21 +42,20 @@
 
 {"descriptionCam":"Afrobit est une chaine privées spécialisée au musique africaine et international.","sourceCam":["http://connectiktv.ddns.net:5000/afrobithd/afrobithd/chunklist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODcwMjQ5MTJf/kemet.jpg","titleCam":"AFROBIT"},
 
-{"descriptionCam":"LeaderCable TV est une chaine privées du cameroune. Sa couverture des événements est généralement considérée des magazines, des analyses d'actualités et des séries importées d'Asie et du Brésil..","sourceCam":["http://connectiktv.ddns.net:5000/leadercable/leadercable/chunklist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODcwMjQ5MTJf/kemet.jpg","titleCam":"LEADER TV"},
+{"descriptionCam":"LeaderCable TV est une chaine privées du cameroune. Sa couverture des événements est généralement considérée des magazines, des analyses d'actualités et des séries importées d'Asie et du Brésil..","sourceCam":["http://connectiktv.ddns.net:5000/leadercable/leadercable/chunklist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTUzODNf/leadertv.jpeg","titleCam":"LEADER TV"},
 
 {"descriptionCam":"Logos Channel est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["http://connectiktv.ddns.net:5000/logoschannel/logoschannel/chunklist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://connectik.tv/wp-content/uploads/2019/06/c1b45634-2f8c-47e7-8849-e6d7ea620465-300x169.jpg","titleCam":"LOGOS CHANNEL"},
 
-{"descriptionCam":"My Gospel est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["http://102.132.19.90:8000/play/a049/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://connectik.tv/wp-content/uploads/2019/06/c1b45634-2f8c-47e7-8849-e6d7ea620465-300x169.jpg","titleCam":"MY GOSPEL"},
+{"descriptionCam":"My Gospel est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["http://102.132.19.90:8000/play/a049/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTUzODZf/mygospel.jpeg","titleCam":"MY GOSPEL"},
 
-{"descriptionCam":"My Media est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["http://102.132.19.90:8000/play/a003/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://connectik.tv/wp-content/uploads/2019/06/c1b45634-2f8c-47e7-8849-e6d7ea620465-300x169.jpg","titleCam":"MY MEDIA"},
+{"descriptionCam":"My Media est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["http://102.132.19.90:8000/play/a003/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTUzOTNf/myMedia.png","titleCam":"MY MEDIA"},
 
-{"descriptionCam":"My Movie English est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["http://102.132.19.90:8000/play/a005/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://connectik.tv/wp-content/uploads/2019/06/c1b45634-2f8c-47e7-8849-e6d7ea620465-300x169.jpg","titleCam":"MY MOVIE ENGLISH"},
+{"descriptionCam":"My Movie English est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["http://102.132.19.90:8000/play/a005/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTUzOTJf/mymovieEnglish.jpeg","titleCam":"MY MOVIE ENGLISH"},
 
-{"descriptionCam":"My Movie French est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["http://102.132.19.90:8000/play/a006/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://connectik.tv/wp-content/uploads/2019/06/c1b45634-2f8c-47e7-8849-e6d7ea620465-300x169.jpg","titleCam":"MY MOVIE FRENCH"},
+{"descriptionCam":"My Movie French est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["http://102.132.19.90:8000/play/a006/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTU0MzZf/mymovieFrench.jpeg","titleCam":"MY MOVIE FRENCH"},
 
-{"descriptionCam":"My Muic est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["http://102.132.19.90:8000/play/a004/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://connectik.tv/wp-content/uploads/2019/06/c1b45634-2f8c-47e7-8849-e6d7ea620465-300x169.jpg","titleCam":"MY MUSIC"},
+{"descriptionCam":"My Muic est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["http://102.132.19.90:8000/play/a004/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTU0Mzdf/myMusic.jpeg","titleCam":"MY MUSIC"},
 
-{"descriptionCam":"Exel Discovery est une chaine télévisée ematant au cameroune","sourceCam":["http://connectiktv.ddns.net:5000/exeltv/exeltv/chunklist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://connectik.tv/wp-content/uploads/2019/06/c1b45634-2f8c-47e7-8849-e6d7ea620465-300x169.jpg","titleCam":"EXEL DISCOVERY"},
+{"descriptionCam":"Exel Discovery est une chaine télévisée ematant au cameroune","sourceCam":["http://connectiktv.ddns.net:5000/exeltv/exeltv/chunklist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTU0NDJf/exelDiscovery.jpeg","titleCam":"EXEL DISCOVERY"},
 
 {"descriptionCam":"Rouge TV est une chaine télévisée ematant au Cameroun avec des émissions spéciales","sourceCam":["http://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://connectik.tv/wp-content/uploads/2019/06/c1b45634-2f8c-47e7-8849-e6d7ea620465-300x169.jpg","titleCam":"ROUGE TV"}]}]}
-
