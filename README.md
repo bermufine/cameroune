@@ -4,7 +4,7 @@
 
 {"descriptionCam":"Africa C-news TV est une chaîne de divertissement et d’évènementiel.  en Afrique francophone, anglophone et lusophone","sourceCam":["http://connectiktv.ddns.me:8080/live/61f1b992a6e8a-1/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTU0NDNf/cnewsAfrica.jpeg","titleCam":"AFRICA C NEWS"},
 
-{"descriptionCam":"Élite One TV est une chaîne de divertissement et d’évènementiel.  en Afrique francophone, anglophone et lusophone","sourceCam":["http://connectiktv.ddns.me:8080/live/61f1b71d8df4b-1/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODcwMjQ5Mzdf/Elite.png","titleCam":"ELITE ONE TV"},
+{"descriptionCam":"Élite One TV est une chaîne de divertissement et d’évènementiel.  en Afrique francophone, anglophone et lusophone","sourceCam":["http://connectiktv.ddns.me:8080/live/61f1b71d8df4b-1/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTU4ODRf/EliteOnetv.jpg","titleCam":"ELITE ONE"},
 
 {"descriptionCam":"Canal 2 International est une chaîne de divertissement et d’évènementiel.  en Afrique francophone, anglophone et lusophone","sourceCam":["http://69.64.57.208/canal2international/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTQwNjU1MDVf/canal2.jpg","titleCam":"CANAL 2 INTERNATIONAL"},
 
@@ -30,21 +30,21 @@
 
 {"descriptionCam":"Repantence TV est une chaîne chrétienne télévisée ematant au cameroune pour l'édification de chrétiens.","sourceCam":["http://connectiktv.ddns.net:5000/repantence/repantence/chunklist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://connectik.tv/wp-content/uploads/2019/06/c1b45634-2f8c-47e7-8849-e6d7ea620465-300x169.jpg","titleCam":"REPANTENCE TV"},
 
-{"descriptionCam":"Dream Channel est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["http://connectiktv.ddns.net:5000/dreamchannel/dreamchannel/chunklist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://connectik.tv/wp-content/uploads/2019/06/c1b45634-2f8c-47e7-8849-e6d7ea620465-300x169.jpg","titleCam":"DREAM CHANNEL TV"},
+{"descriptionCam":"Dream Channel est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["http://connectiktv.ddns.net:5000/dreamchannel/dreamchannel/chunklist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://connectik.tv/wp-content/uploads/2019/06/c1b45634-2f8c-47e7-8849-e6d7ea620465-300x169.jpg","titleCam":"DREAM CHANNEL"},
 
-{"descriptionCam":"Glory Christ Channel est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["https://stream.it-innov.com/gcc/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://connectik.tv/wp-content/uploads/2019/06/c1b45634-2f8c-47e7-8849-e6d7ea620465-300x169.jpg","titleCam":"GLORY CHRIST"},
+{"descriptionCam":"Glory Christ Channel est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["https://stream.it-innov.com/gcc/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTU4NTJf/gloryChrist.jpeg","titleCam":"GLORY CHRIST"},
 
-{"descriptionCam":"TR 24 TV est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["https://stream.it-innov.com/tr24/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://connectik.tv/wp-content/uploads/2019/06/c1b45634-2f8c-47e7-8849-e6d7ea620465-300x169.jpg","titleCam":"TR 24 TV"},
+{"descriptionCam":"TR 24 TV est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["https://stream.it-innov.com/tr24/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTU4NTdf/tr24.jpeg","titleCam":"TR 24 TV"},
 
 {"descriptionCam":"ACN TV est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["https://www.live.quantizedcreativity.com:5443/LiveApp/streams/ambazonia_is_independent_from_lrc.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://connectik.tv/wp-content/uploads/2019/06/c1b45634-2f8c-47e7-8849-e6d7ea620465-300x169.jpg","titleCam":"ACN TV"},
 
-{"descriptionCam":"CRTV est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["https://www.live.quantizedcreativity.com:5443/LiveApp/streams/ambazonia_is_independent_from_lrc.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://connectik.tv/wp-content/uploads/2019/06/c1b45634-2f8c-47e7-8849-e6d7ea620465-300x169.jpg","titleCam":"CRTV"},
+{"descriptionCam":"CRTV est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["https://www.live.quantizedcreativity.com:5443/LiveApp/streams/ambazonia_is_independent_from_lrc.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTU4MDlf/crtv.png","titleCam":"CRTV"},
 
 {"descriptionCam":"Afrobit est une chaine privées spécialisée au musique africaine et international.","sourceCam":["http://connectiktv.ddns.net:5000/afrobithd/afrobithd/chunklist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODcwMjQ5MTJf/kemet.jpg","titleCam":"AFROBIT"},
 
 {"descriptionCam":"LeaderCable TV est une chaine privées du cameroune. Sa couverture des événements est généralement considérée des magazines, des analyses d'actualités et des séries importées d'Asie et du Brésil..","sourceCam":["http://connectiktv.ddns.net:5000/leadercable/leadercable/chunklist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTUzODNf/leadertv.jpeg","titleCam":"LEADER TV"},
 
-{"descriptionCam":"Logos Channel est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["http://connectiktv.ddns.net:5000/logoschannel/logoschannel/chunklist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://connectik.tv/wp-content/uploads/2019/06/c1b45634-2f8c-47e7-8849-e6d7ea620465-300x169.jpg","titleCam":"LOGOS CHANNEL"},
+{"descriptionCam":"Logos Channel est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["http://connectiktv.ddns.net:5000/logoschannel/logoschannel/chunklist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTU4NTFf/logosYaounde.jpeg","titleCam":"LOGOS CHANNEL"},
 
 {"descriptionCam":"My Gospel est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["http://102.132.19.90:8000/play/a049/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTUzODZf/mygospel.jpeg","titleCam":"MY GOSPEL"},
 
@@ -58,4 +58,7 @@
 
 {"descriptionCam":"Exel Discovery est une chaine télévisée ematant au cameroune","sourceCam":["http://connectiktv.ddns.net:5000/exeltv/exeltv/chunklist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTU0NDJf/exelDiscovery.jpeg","titleCam":"EXEL DISCOVERY"},
 
-{"descriptionCam":"Rouge TV est une chaine télévisée ematant au Cameroun avec des émissions spéciales","sourceCam":["http://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://connectik.tv/wp-content/uploads/2019/06/c1b45634-2f8c-47e7-8849-e6d7ea620465-300x169.jpg","titleCam":"ROUGE TV"}]}]}
+{"descriptionCam":"Rouge TV est une chaine télévisée ematant au Cameroun avec des émissions spéciales","sourceCam":["http://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTU4NjVf/rougetv.jpeg","titleCam":"ROUGE TV"}]}]}
+
+
+https://od.lk/s/M18yODcwMjQ5Mzdf/Elite.png
