@@ -4,14 +4,10 @@
 
 {"descriptionCam":"Africa C-news TV est une chaîne de divertissement et d’évènementiel.  en Afrique francophone, anglophone et lusophone","sourceCam":["http://connectiktv.ddns.me:8080/live/61f1b992a6e8a-1/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTU0NDNf/cnewsAfrica.jpeg","titleCam":"AFRICA C NEWS"},
 
-{"descriptionCam":"Next tv est une chaîne thématique","sourceCam":["https://connectiktv.ddns.net:8080/nextv/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/NzNfNzg4NTQ4Njlf/nexttv.jpg","titleCam":"NEXT TV"},
+{"descriptionCam":"Next tv est une chaîne thématique","sourceCam":["http://connectik.ddns.net:8080/nextv/playlist.m3u8"
+],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/NzNfNzg4NTQ4Njlf/nexttv.jpg","titleCam":"NEXT TV"},
 
 {"descriptionCam":"Élite One TV est une chaîne de divertissement et d’évènementiel.  en Afrique francophone, anglophone et lusophone","sourceCam":["http://connectiktv.ddns.me:8080/live/61f1b71d8df4b-1/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTU4ODRf/EliteOnetv.jpg","titleCam":"ELITE ONE"},
-
-
-
-
-{"descriptionCam":"Élite One TV est une chaîne de divertissement et d’évènementiel.  en Afrique francophone, anglophone et lusophone","sourceCam":["https://connectik.ddns.net:8080/nextv/mpegts"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTU4ODRf/EliteOnetv.jpg","titleCam":"ELITE ONE"},
 
 {"descriptionCam":"Canal 2 International est une chaîne de divertissement et d’évènementiel.  en Afrique francophone, anglophone et lusophone","sourceCam":["http://69.64.57.208/canal2international/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTQwNjU1MDVf/canal2.jpg","titleCam":"CANAL 2 INTERNATIONAL"},
 
