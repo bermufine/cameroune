@@ -1,11 +1,11 @@
 {"categorieCam":[{"name":"Movies","videos":[{"descriptionCam":"Ctv Africa TV est une chaîne de divertissement et d’évènementiel en Afrique francophone, anglophone et lusophone","sourceCam":["https://stream.it-innov.com:443/ctv/tracks-v1a1/mono.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODQ2NjkyNzBf/ctvAfrique.jpeg","titleCam":"CTV AFRICA"},
 
+{"descriptionCam":"Next tv est une chaîne de télévision privée Americaine, un chaîne géneraliste disponible partout dans le monde. Pour tout contact du représentant en Afrique : +237 62 06 44 723","sourceCam":["http://connectik.ddns.net:8080/nextv/playlist.m3u8"
+],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/NzNfNzg4NTQ4Njlf/nexttv.jpg","titleCam":"NEXT TV"},
+
 {"descriptionCam":"Equinox TV est une chaîne de divertissement et d’évènementiel.  en Afrique francophone, anglophone et lusophone","sourceCam":["http://69.64.57.208/equinoxtv/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTUzNThf/equinox.jpeg","titleCam":"EQUINOX TV"},
 
 {"descriptionCam":"Africa C-news TV est une chaîne de divertissement et d’évènementiel.  en Afrique francophone, anglophone et lusophone","sourceCam":["http://connectiktv.ddns.me:8080/live/61f1b992a6e8a-1/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTU0NDNf/cnewsAfrica.jpeg","titleCam":"AFRICA C NEWS"},
-
-{"descriptionCam":"Next tv est une chaîne thématique","sourceCam":["http://connectik.ddns.net:8080/nextv/playlist.m3u8"
-],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/NzNfNzg4NTQ4Njlf/nexttv.jpg","titleCam":"NEXT TV"},
 
 {"descriptionCam":"Élite One TV est une chaîne de divertissement et d’évènementiel.  en Afrique francophone, anglophone et lusophone","sourceCam":["http://connectiktv.ddns.me:8080/live/61f1b71d8df4b-1/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTU4ODRf/EliteOnetv.jpg","titleCam":"ELITE ONE"},
 
