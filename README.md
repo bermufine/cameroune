@@ -11,7 +11,7 @@
 
 
 
-{"descriptionCam":"Élite One TV est une chaîne de divertissement et d’évènementiel.  en Afrique francophone, anglophone et lusophone","sourceCam":["https://connectiktv.ddns.net:8080/nextv/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTU4ODRf/EliteOnetv.jpg","titleCam":"ELITE ONE"},
+{"descriptionCam":"Élite One TV est une chaîne de divertissement et d’évènementiel.  en Afrique francophone, anglophone et lusophone","sourceCam":["https://connectik.ddns.net:8080/nextv/mpegts"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTU4ODRf/EliteOnetv.jpg","titleCam":"ELITE ONE"},
 
 {"descriptionCam":"Canal 2 International est une chaîne de divertissement et d’évènementiel.  en Afrique francophone, anglophone et lusophone","sourceCam":["http://69.64.57.208/canal2international/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTQwNjU1MDVf/canal2.jpg","titleCam":"CANAL 2 INTERNATIONAL"},
 
