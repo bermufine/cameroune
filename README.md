@@ -9,11 +9,11 @@
 
 {"descriptionCam":"ACN TV est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["https://www.live.quantizedcreativity.com:5443/LiveApp/streams/ambazonia_is_independent_from_lrc.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTYxODlf/ACNcameroon.jpeg","titleCam":"ACN TV"},
 
-{"descriptionCam":"My Muic est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["http://102.132.19.90:8000/play/a004/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTU0Mzdf/myMusic.jpeg","titleCam":"MY MUSIC"},
+{"descriptionCam":"My Muic est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["http://102.132.19.90:8000/play/a004/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/NzNfODAwODc3MDBf/mymusicafrica.jpeg","titleCam":"MY MUSIC"},
 
 {"descriptionCam":"Africa C-news TV est une chaîne de divertissement et d’évènementiel.  en Afrique francophone, anglophone et lusophone","sourceCam":["http://connectiktv.ddns.me:8080/live/61f1b992a6e8a-1/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTU0NDNf/cnewsAfrica.jpeg","titleCam":"AFRICA C NEWS"},
 
-{"descriptionCam":"SCBC TV est une chaîne télévisée du Cameroune avec un programme riche.","sourceCam":["https://cdn.scbcmedia.com/scbctelevision/c9a1fdac6e082dd89e7173244f34d7b3.sdp/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODQ2NjkyNjdf/dash.png","titleCam":"SCBC TV"},
+{"descriptionCam":"SCBC TV est une chaîne télévisée du Cameroune avec un programme riche.","sourceCam":["https://cdn.scbcmedia.com/scbctelevision/c9a1fdac6e082dd89e7173244f34d7b3.sdp/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/NzNfODAwODc1ODNf/scbctv.png","titleCam":"SCBC TV"},
 
 {"descriptionCam":"Élite One TV est une chaîne de divertissement et d’évènementiel.  en Afrique francophone, anglophone et lusophone","sourceCam":["http://connectiktv.ddns.me:8080/live/61f1b71d8df4b-1/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTU4ODRf/EliteOnetv.jpg","titleCam":"ELITE ONE"},
 
@@ -33,7 +33,7 @@
 
 {"descriptionCam":"My Gospel est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["http://102.132.19.90:8000/play/a049/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTUzODZf/mygospel.jpeg","titleCam":"MY GOSPEL"},
 
-{"descriptionCam":"Misec TV est une chaine télévisée chretienne ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["https://stream.it-innov.com/misec/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTU4NTJf/gloryChrist.jpeg","titleCam":"MISEC TV"},
+{"descriptionCam":"Misec TV est une chaine télévisée chretienne ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["https://stream.it-innov.com/misec/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","titleCam":"MISEC TV"},
 
 {"descriptionCam":"Glory Christ Channel est une chaine télévisée chretienne ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["https://stream.it-innov.com/gcc/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTU4NTJf/gloryChrist.jpeg","titleCam":"GLORY CHRIST"},
 
@@ -45,12 +45,9 @@
 
 {"descriptionCam":"Afrobit est une chaine privées spécialisée au musique africaine et international.","sourceCam":["http://connectiktv.ddns.net:5000/afrobithd/afrobithd/chunklist.m3u8"],"subtitleCam":"By Channel","thumbCam":"[https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","titleCam":"AFROBIT"},
 
-{"descriptionCam":"My Righteous TV est une chaîne chrétienne télévisée ematant au cameroune pour l'édification de chrétiens.","sourceCam":["https://rpn3.bozztv.com/ssh101/ssh101/myrighteous/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTYxOTFf/repentanceCamer.jpeg","titleCam":"MY RIGHTEOUS"},
+{"descriptionCam":"My Righteous TV est une chaîne chrétienne télévisée ematant au cameroune pour l'édification de chrétiens.","sourceCam":["https://rpn3.bozztv.com/ssh101/ssh101/myrighteous/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/NzNfODAwODcwODRf/myrighteous.jpg","titleCam":"MY RIGHTEOUS"},
 
-{"descriptionCam":"IBA Channel TV est une chaîne télévisée du Cameroune avec un programme riche.","sourceCam":["https://video1.getstreamhosting.com:1936/8190/8190/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODQ2NjkyNjdf/dash.png","titleCam":"IBA CHANNEL"},
-
-
-
+{"descriptionCam":"IBA Channel TV est une chaîne télévisée du Cameroune avec un programme riche.","sourceCam":["https://video1.getstreamhosting.com:1936/8190/8190/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/NzNfODAwODczNzBf/ibatv.png","titleCam":"IBA CHANNEL"},
 
 {"descriptionCam":"Logos Channel est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["http://connectiktv.ddns.net:5000/logoschannel/logoschannel/chunklist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTU4NTFf/logosYaounde.jpeg","titleCam":"LOGOS CHANNEL"},
 
