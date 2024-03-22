@@ -7,6 +7,8 @@
 
 {"descriptionCam":"Equinox TV est une chaîne de divertissement et d’évènementiel.  en Afrique francophone, anglophone et lusophone","sourceCam":["http://69.64.57.208/equinoxtv/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTUzNThf/equinox.jpeg","titleCam":"EQUINOX TV"},
 
+{"descriptionCam":"ACN TV est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["https://www.live.quantizedcreativity.com:5443/LiveApp/streams/ambazonia_is_independent_from_lrc.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTYxODlf/ACNcameroon.jpeg","titleCam":"ACN TV"},
+
 {"descriptionCam":"My Muic est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["http://102.132.19.90:8000/play/a004/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTU0Mzdf/myMusic.jpeg","titleCam":"MY MUSIC"},
 
 {"descriptionCam":"Africa C-news TV est une chaîne de divertissement et d’évènementiel.  en Afrique francophone, anglophone et lusophone","sourceCam":["http://connectiktv.ddns.me:8080/live/61f1b992a6e8a-1/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTU0NDNf/cnewsAfrica.jpeg","titleCam":"AFRICA C NEWS"},
@@ -29,13 +31,22 @@
 
 {"descriptionCam":"My Gospel est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["http://102.132.19.90:8000/play/a049/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTUzODZf/mygospel.jpeg","titleCam":"MY GOSPEL"},
 
-{"descriptionCam":"Glory Christ Channel est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["https://stream.it-innov.com/gcc/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTU4NTJf/gloryChrist.jpeg","titleCam":"GLORY CHRIST"},
+{"descriptionCam":"Misec TV est une chaine télévisée chretienne ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["https://stream.it-innov.com/misec/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTU4NTJf/gloryChrist.jpeg","titleCam":"MISEC TV"},
+
+
+{"descriptionCam":"Glory Christ Channel est une chaine télévisée chretienne ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["https://stream.it-innov.com/gcc/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTU4NTJf/gloryChrist.jpeg","titleCam":"GLORY CHRIST"},
 
 {"descriptionCam":"My Movie English est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["http://102.132.19.90:8000/play/a005/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTUzOTJf/mymovieEnglish.jpeg","titleCam":"MY MOVIE ENGLISH"},
+
+{"descriptionCam":"Repantence TV est une chaîne chrétienne télévisée ematant au cameroune pour l'édification de chrétiens.","sourceCam":["http://connectiktv.ddns.net:5000/repantence/repantence/chunklist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTYxOTFf/repentanceCamer.jpeg","titleCam":"REPANTENCE TV"},
 
 {"descriptionCam":"TR 24 TV est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["https://stream.it-innov.com/tr24/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTU4NTdf/tr24.jpeg","titleCam":"TR 24 TV"},
 
 {"descriptionCam":"Afrobit est une chaine privées spécialisée au musique africaine et international.","sourceCam":["http://connectiktv.ddns.net:5000/afrobithd/afrobithd/chunklist.m3u8"],"subtitleCam":"By Channel","thumbCam":"[https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","titleCam":"AFROBIT"},
+
+{"descriptionCam":"My Righteous TV est une chaîne chrétienne télévisée ematant au cameroune pour l'édification de chrétiens.","sourceCam":["https://rpn3.bozztv.com/ssh101/ssh101/myrighteous/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTYxOTFf/repentanceCamer.jpeg","titleCam":"MY RIGHTEOUS"},
+
+
 
 {"descriptionCam":"Logos Channel est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["http://connectiktv.ddns.net:5000/logoschannel/logoschannel/chunklist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTU4NTFf/logosYaounde.jpeg","titleCam":"LOGOS CHANNEL"},
 
@@ -62,11 +73,9 @@
 
 {"descriptionCam":"Afrique Media Andustry TV est l'une des chaines privées que l'on retrouve dans la ville de Yaounde, possédant des émissions variées et musiques","sourceCam":["http://102.132.19.90:8000/play/a04m/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTUzODBf/afriquMedia.jpeg","titleCam":"AFRIQUE MEDIA INDUSTRY"},
 
-{"descriptionCam":"Repantence TV est une chaîne chrétienne télévisée ematant au cameroune pour l'édification de chrétiens.","sourceCam":["http://connectiktv.ddns.net:5000/repantence/repantence/chunklist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTYxOTFf/repentanceCamer.jpeg","titleCam":"REPANTENCE TV"},
-
 {"descriptionCam":"Dream Channel est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["http://connectiktv.ddns.net:5000/dreamchannel/dreamchannel/chunklist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTYxODhf/dreamchannel.jpeg","titleCam":"DREAM CHANNEL"},
 
-{"descriptionCam":"ACN TV est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["https://www.live.quantizedcreativity.com:5443/LiveApp/streams/ambazonia_is_independent_from_lrc.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTYxODlf/ACNcameroon.jpeg","titleCam":"ACN TV"},
+
 
 {"descriptionCam":"CRTV est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["https://www.live.quantizedcreativity.com:5443/LiveApp/streams/ambazonia_is_independent_from_lrc.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTU4MDlf/crtv.png","titleCam":"CRTV"},
 
