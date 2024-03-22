@@ -43,7 +43,7 @@
 
 {"descriptionCam":"TR 24 TV est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["https://stream.it-innov.com/tr24/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTU4NTdf/tr24.jpeg","titleCam":"TR 24 TV"},
 
-{"descriptionCam":"Afrobit est une chaine privées spécialisée au musique africaine et international.","sourceCam":["http://connectiktv.ddns.net:5000/afrobithd/afrobithd/chunklist.m3u8"],"subtitleCam":"By Channel","thumbCam":"[https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","titleCam":"AFROBIT"},
+{"descriptionCam":"Afrobit est une chaine privées spécialisée au musique africaine et international.","sourceCam":["http://connectiktv.ddns.net:5000/afrobithd/afrobithd/chunklist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/NzNfODAwODg2MzRf/afrobit.jpg","titleCam":"AFROBIT"},
 
 {"descriptionCam":"My Righteous TV est une chaîne chrétienne télévisée ematant au cameroune pour l'édification de chrétiens.","sourceCam":["https://rpn3.bozztv.com/ssh101/ssh101/myrighteous/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/NzNfODAwODcwODRf/myrighteous.jpg","titleCam":"MY RIGHTEOUS"},
 
