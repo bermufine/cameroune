@@ -13,6 +13,8 @@
 
 {"descriptionCam":"Africa C-news TV est une chaîne de divertissement et d’évènementiel.  en Afrique francophone, anglophone et lusophone","sourceCam":["http://connectiktv.ddns.me:8080/live/61f1b992a6e8a-1/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTU0NDNf/cnewsAfrica.jpeg","titleCam":"AFRICA C NEWS"},
 
+{"descriptionCam":"SCBC TV est une chaîne télévisée du Cameroune avec un programme riche.","sourceCam":["https://cdn.scbcmedia.com/scbctelevision/c9a1fdac6e082dd89e7173244f34d7b3.sdp/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODQ2NjkyNjdf/dash.png","titleCam":"SCBC TV"},
+
 {"descriptionCam":"Élite One TV est une chaîne de divertissement et d’évènementiel.  en Afrique francophone, anglophone et lusophone","sourceCam":["http://connectiktv.ddns.me:8080/live/61f1b71d8df4b-1/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTU4ODRf/EliteOnetv.jpg","titleCam":"ELITE ONE"},
 
 {"descriptionCam":"My Movie French est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["http://102.132.19.90:8000/play/a006/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTU0MzZf/mymovieFrench.jpeg","titleCam":"MY MOVIE FRENCH"},
@@ -33,7 +35,6 @@
 
 {"descriptionCam":"Misec TV est une chaine télévisée chretienne ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["https://stream.it-innov.com/misec/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTU4NTJf/gloryChrist.jpeg","titleCam":"MISEC TV"},
 
-
 {"descriptionCam":"Glory Christ Channel est une chaine télévisée chretienne ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["https://stream.it-innov.com/gcc/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTU4NTJf/gloryChrist.jpeg","titleCam":"GLORY CHRIST"},
 
 {"descriptionCam":"My Movie English est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["http://102.132.19.90:8000/play/a005/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTUzOTJf/mymovieEnglish.jpeg","titleCam":"MY MOVIE ENGLISH"},
@@ -45,6 +46,9 @@
 {"descriptionCam":"Afrobit est une chaine privées spécialisée au musique africaine et international.","sourceCam":["http://connectiktv.ddns.net:5000/afrobithd/afrobithd/chunklist.m3u8"],"subtitleCam":"By Channel","thumbCam":"[https://od.lk/s/NzNfNzcyNjM5ODJf/berosats.jpg","titleCam":"AFROBIT"},
 
 {"descriptionCam":"My Righteous TV est une chaîne chrétienne télévisée ematant au cameroune pour l'édification de chrétiens.","sourceCam":["https://rpn3.bozztv.com/ssh101/ssh101/myrighteous/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTYxOTFf/repentanceCamer.jpeg","titleCam":"MY RIGHTEOUS"},
+
+{"descriptionCam":"IBA Channel TV est une chaîne télévisée du Cameroune avec un programme riche.","sourceCam":["https://video1.getstreamhosting.com:1936/8190/8190/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODQ2NjkyNjdf/dash.png","titleCam":"IBA CHANNEL"},
+
 
 
 
@@ -65,8 +69,6 @@
 
 {"descriptionCam":"Lancée le 16 sept 2019, SUN+ TV est la première chaîne de télévision 100% divertissement du Cameroun disponible sur le digital et le satellite. Cinéma, sport, musiques, émissions TV, elle informe en divertissant. Classée 2e meilleure chaîne TV divertissement derrière La chaîne nationale CRTV.","sourceCam":["https://sunplustv.mboahost.biz:8181/live/chainesuntv/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODQ2ODkyNDFf/SunPlus.jpeg","titleCam":"SUN PLUS TV"},
 
-{"descriptionCam":"Dash Sports TV est une chaîne télévisée du Cameroune avec un programme riche du Sports.","sourceCam":["http://102.132.19.90:8000/play/a014/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODQ2NjkyNjdf/dash.png","titleCam":"DASH SPORTS"},
-
 {"descriptionCam":"Cam 10 TV est l'une des chaines privées que l'on retrouve dans la ville de Yaounde, possédant des émissions variées et musiques","sourceCam":["http://102.132.19.90:8000/play/a00d/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTUzNjJf/cam10.png","titleCam":"CAM 10"},
 
 {"descriptionCam":"Afrique Media TV est l'une des chaines privées que l'on retrouve dans la ville de Yaounde, possédant des émissions variées et musiques","sourceCam":["http://102.132.19.90:8000/play/a002/index.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTUzNjRf/AfriqueMedia.jpeg","titleCam":"AFRIQUE MEDIA"},
@@ -84,3 +86,5 @@
 
 
 https://od.lk/s/M18yODcwMjQ5Mzdf/Elite.png
+
+https://od.lk/s/M18yODQ2NjkyNjdf/dash.png
