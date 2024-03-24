@@ -1,6 +1,6 @@
 {"categorieCam":[{"name":"Movies","videos":[{"descriptionCam":"Ctv Africa TV est une chaîne de divertissement et d’évènementiel en Afrique francophone, anglophone et lusophone","sourceCam":["https://stream.it-innov.com:443/ctv/tracks-v1a1/mono.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODQ2NjkyNzBf/ctvAfrique.jpeg","titleCam":"CTV AFRICA"},
 
-{"descriptionCam":"Next tv est une chaîne de télévision privée Americaine, un chaîne géneraliste disponible partout dans le monde. Pour tout contact du représentant en Afrique : +237 62 06 44 723","sourceCam":["http://connectik.ddns.net:8080/nextv/playlist.m3u8"
+{"descriptionCam":"Next tv est une chaîne de télévision privée Americaine, un chaîne géneraliste disponible partout dans le monde. Pour tout contact du représentant en Afrique : +237 62 06 44 723","sourceCam":["https://stream.hopetvafrica.live/hls/stream.m3u8"
 ],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/NzNfNzg4NTQ4Njlf/nexttv.jpg","titleCam":"NEXT TV"},
 
 {"descriptionCam":"Canal Woyla TV est une chaîne de divertissement et d’évènementiel.  en Afrique francophone, anglophone et lusophone","sourceCam":["http://41.223.30.44:1935/Canalwoyla/canalwoyla/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/NzNfNzk4NjUyNTJf/IMG-20240320-WA0729.jpg","titleCam":"CANAL WOYLA"},
