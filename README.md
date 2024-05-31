@@ -1,9 +1,12 @@
-{"categorieCam":[{"name":"Movies","videos":[{"descriptionCam":"Ctv Africa TV est une chaîne de divertissement et d’évènementiel en Afrique francophone, anglophone et lusophone","sourceCam":["https://stream.it-innov.com:443/ctv/tracks-v1a1/mono.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODQ2NjkyNzBf/ctvAfrique.jpeg","titleCam":"CTV AFRICA"},
+{"categorieCam":[{"name":"Movies","videos":[{"descriptionCam":"Star Plus Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....","sourceCam":["http://41.223.30.44:1935/starnovelas/starnovelas/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18zMDM4NzcxNzZf/starNovelas.jpg","titleCam":"STAR+ NOVELAS"},
 
-{"descriptionCam":"Next tv est une chaîne de télévision privée Americaine, un chaîne géneraliste disponible partout dans le monde. Pour tout contact du représentant en Afrique : +237 62 06 44 723","sourceCam":["https://stream.hopetvafrica.live/hls/stream.m3u8"
-],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/NzNfNzg4NTQ4Njlf/nexttv.jpg","titleCam":"NEXT TV"},
+{"descriptionCam":"CRTV est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["http://185.59.221.131:8081/live/crtv/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTU4MDlf/crtv.png","titleCam":"CRTV"},
+
+{"descriptionCam":"Ctv Africa TV est une chaîne de divertissement et d’évènementiel en Afrique francophone, anglophone et lusophone","sourceCam":["https://stream.it-innov.com:443/ctv/tracks-v1a1/mono.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yODQ2NjkyNzBf/ctvAfrique.jpeg","titleCam":"CTV AFRICA"},
 
 {"descriptionCam":"Canal Woyla TV est une chaîne de divertissement et d’évènementiel.  en Afrique francophone, anglophone et lusophone","sourceCam":["http://41.223.30.44:1935/Canalwoyla/canalwoyla/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/NzNfNzk4NjUyNTJf/IMG-20240320-WA0729.jpg","titleCam":"CANAL WOYLA"},
+
+{"descriptionCam":"Canal 2 International est l'une des chaines privées que l'on retrouve dans la ville de Yaounde, possédant des émissions variées et musiques","sourceCam":["http://185.59.221.131:8081/live/canal2international/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18zMDM4Nzc0MzRf/canal2Intern.jpeg","titleCam":"CANAL 2 INTERNATIONAL"},
 
 {"descriptionCam":"Equinox TV est une chaîne de divertissement et d’évènementiel.  en Afrique francophone, anglophone et lusophone","sourceCam":["http://69.64.57.208/equinoxtv/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTUzNThf/equinox.jpeg","titleCam":"EQUINOX TV"},
 
@@ -53,7 +56,10 @@
 
 {"descriptionCam":"LeaderCable TV est une chaine privées du cameroune. Sa couverture des événements est généralement considérée des magazines, des analyses d'actualités et des séries importées d'Asie et du Brésil..","sourceCam":["http://connectiktv.ddns.net:5000/leadercable/leadercable/chunklist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTUzODNf/leadertv.jpeg","titleCam":"LEADER TV"},
 
-{"descriptionCam":"Rouge TV est une chaine télévisée ematant au Cameroun avec des émissions spéciales","sourceCam":["http://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTU4NjVf/rougetv.jpeg","titleCam":"ROUGE TV"}]}]}
+{"descriptionCam":"Rouge TV est une chaine télévisée ematant au Cameroun avec des émissions spéciales","sourceCam":["http://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTU4NjVf/rougetv.jpeg","titleCam":"ROUGE TV"},
+
+{"descriptionCam":"Next tv est une chaîne de télévision privée Americaine, un chaîne géneraliste disponible partout dans le monde. Pour tout contact du représentant en Afrique : +237 62 06 44 723","sourceCam":["https://stream.hopetvafrica.live/hls/stream.m3u8"
+],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/NzNfNzg4NTQ4Njlf/nexttv.jpg","titleCam":"NEXT TV"}]}]}
 
 
 
@@ -76,7 +82,8 @@
 
 
 
-{"descriptionCam":"CRTV est une chaine télévisée ematant au cameroune qui diffuse de la musique de toutes tendances.","sourceCam":["https://www.live.quantizedcreativity.com:5443/LiveApp/streams/ambazonia_is_independent_from_lrc.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTU4MDlf/crtv.png","titleCam":"CRTV"},
+
+
 
 {"descriptionCam":"Exel Discovery est une chaine télévisée ematant au cameroune","sourceCam":["http://connectiktv.ddns.net:5000/exeltv/exeltv/chunklist.m3u8"],"subtitleCam":"By Channel","thumbCam":"https://od.lk/s/M18yOTU4OTU0NDJf/exelDiscovery.jpeg","titleCam":"EXEL DISCOVERY"},
 
